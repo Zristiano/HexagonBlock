@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/black">
+
+    <TextView
+        android:id="@+id/sum_score_tx"
+        android:layout_marginTop="30dp"
+        android:layout_width="wrap_content"
+        android:textSize="40dp"
+        android:textColor="@color/Golden"
+        android:layout_height="wrap_content"
+        android:gravity="center"
+        android:text="0"
+        android:textStyle="bold"
+        android:layout_gravity="center_horizontal" />
+
+    <ImageView
+        android:id="@+id/buzzer"
+        android:layout_width="25dp"
+        android:layout_height="25dp"
+        android:layout_margin="20dp"
+        android:layout_gravity="right|top"
+        android:src="@drawable/sound_on_64"/>
+
+    <TextView
+        android:id="@+id/hightest_socre"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:gravity="center_vertical"
+        android:layout_margin="15dp"
+        android:textColor="@color/light_orange"
+        android:drawablePadding="3dp"
+        android:textSize="16dp"
+        android:drawableLeft="@drawable/niubility"/>
+
+    <TextView
+        android:id="@+id/reboot_game"
+        android:layout_marginRight="10dp"
+        android:layout_marginTop="50dp"
+        android:layout_width="42dp"
+        android:layout_height="42dp"
+        android:layout_gravity="top|right"
+        android:textSize="14dp"
+        android:text="@string/restart"
+        android:visibility="visible"
+        android:gravity="center"
+        android:textColor="@color/white"
+        android:background="@drawable/selector_translucent_btn"/>
+
+    <Button
+        android:id="@+id/animatorTest"
+        android:layout_height="wrap_content"
+        android:layout_width="wrap_content"
+        android:visibility="gone"
+        android:text="Anim Test"
+        android:layout_marginTop="60dp"/>
+
+    <com.example.yuanmengzeng.hexagonblock.CustomView.HexagonHeap
+        android:id="@+id/hexagonHeap"
+        app:HexagonHeap_bg="@drawable/heap_bg"
+        android:layout_gravity="center"
+        android:layout_width="match_parent"
+        android:padding="5dp"
+        android:layout_height="300dp"
+        android:visibility="visible"/>
+
+    <com.example.yuanmengzeng.hexagonblock.CustomView.HexagonView
+        android:id="@+id/hexBlock"
+        android:visibility="gone"
+        android:layout_width="20dp"
+        android:layout_height="20dp" />
+
+    <EditText
+        android:id="@+id/editScore"
+        android:layout_width="100dp"
+        android:layout_height="25dp"
+        android:textSize="18sp"
+        android:text="40"
+        android:visibility="gone"
+        android:gravity="left|center_vertical"
+        android:background="@color/white"
+        android:layout_gravity="center_horizontal"/>
+    <com.example.yuanmengzeng.hexagonblock.CustomView.HorizontalLineBlock
+        android:id="@+id/left_bottom_block"
+        android:layout_width="20dp"
+        android:layout_height="20dp"
+        android:layout_marginLeft="30dp"
+        android:layout_marginBottom="20dp"
+        app:hexagon_color="@color/yellow"
+        app:shape_type="LEFT_TOP_4_BLOCK"
+        android:layout_gravity="bottom|left"/>
+
+    <com.example.yuanmengzeng.hexagonblock.CustomView.HorizontalLineBlock
+        android:id="@+id/center_bottom_block"
+        android:layout_width="20dp"
+        android:layout_height="20dp"
+        android:layout_marginBottom="20dp"
+        app:hexagon_color="@color/yellow"
+        app:shape_type="GUN_300_LEFT"
+        android:layout_gravity="bottom|center_horizontal"/>
+    <com.example.yuanmengzeng.hexagonblock.CustomView.HorizontalLineBlock
+        android:id="@+id/right_bottom_block"
+        android:layout_width="20dp"
+        android:layout_height="20dp"
+        android:layout_marginBottom="20dp"
+        android:layout_marginRight="30dp"
+        app:hexagon_color="@color/yellow"
+        app:shape_type="RIGHT_RHOMBUS_BLOCK"
+        android:layout_gravity="bottom|right"/>
+
+
+    <TextView
+        android:id="@+id/step_score_tx"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textSize="20dp"
+        android:layout_gravity="center"
+        android:gravity="center"
+        android:textColor="@color/white"
+        android:visibility="invisible"
+        android:text="hello_word"/>
+
+    <include layout="@layout/cover"/>
+
+</FrameLayout>

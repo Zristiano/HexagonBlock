@@ -1,0 +1,935 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+
+
+    <color name="black">#FF000000</color>
+
+    <color name="player_bar_black">#66000000</color>
+
+    <color name="seek_bar_black">#99000000</color>
+
+    <color name="player_set_content">#7F000000</color>
+
+    <color name="player_not_set_content">#44000000</color>
+
+    <color name="white">#FFFFFFFF</color>
+
+    <color name="red">#FFFF0000</color>
+
+    <color name="green">#FF008000</color>
+
+    <color name="yellow">#FFFFFF00</color>
+
+    <color name="saffron_yellow">#FF9900</color>
+
+    <color name="translucent_background">#60000000</color>
+
+    <color name="dim_gray">#FF545454</color>
+
+    <color name="true_gray">#FF808080</color>
+
+    <color name="my_gray">#FF202020</color>
+
+    <color name="msg_unread">#ffd6d6d6</color>
+
+    <color name="msg_read">#ff636363</color>
+
+    <color name="background">#000000</color>
+
+    <color name="control_back">#AA00003D</color>
+
+    <color name="dialog_back">#330000FF</color>
+
+    <color name="button_bg">#F4F4F4</color>
+
+    <color name="button_close_pressed_bg">#E89631</color>
+
+    <color name="channel_detail_small_play_pressed">#FFD04D</color>
+
+    <color name="control_back1">#e0000000</color>
+
+    <color name="title_blue">#36a0ec</color>
+
+    <color name="start_font">#fffc00</color>
+
+    <color name="bg">#43484c</color>
+
+    <color name="detail_stored">#858585</color>
+
+    <color name="widget_time">#d0914b</color>
+
+    <color name="widget_title">#bbe3fe</color>
+
+    <color name="fancy_blue">#FFD7D7D7</color>
+
+    <color name="light_blue">#0090FF</color>
+
+    <color name="light_white">#9d9d9d</color>
+
+    <color name="URL_orange">#F08306</color>
+
+    <color name="orange2">#FFA500</color>
+
+    <color name="bg_progress">#3c3c3c</color>
+
+    <color name="in_progress">#006db9</color>
+
+    <color name="reward_light_gray">#f2f2f2</color>
+
+    <!-- topbar编辑文字颜色 -->
+
+
+    <color name="edit_text_color">#FFA200</color>
+
+    <!-- 半透明背景 -->
+
+
+    <color name="transparent_background">#cc000000</color>
+
+    <color name="category_hot_color">#FF9000</color>
+
+    <color name="player_progress_dialog_background">#90000000</color>
+
+    <!-- ↓宋嵬添加 -->
+
+
+    <color name="menu_instruction_title">#00bdd2</color>
+
+    <color name="menu_instruction_title_bg">#2b2f32</color>
+
+    <color name="menu_instruction_contect">#e9e9e9</color>
+
+    <color name="menu_feedback_textcolor">#ffffff</color>
+
+    <!-- add by chuckcheng 20120605 1.3.9统一颜色值 -->
+
+
+    <color name="orange">#ff8a00</color>
+
+    <color name="light_orange">#ffa200</color>
+
+    <color name="blue">#008cd6</color>
+
+    <color name="gray">#9f9f9f</color>
+
+    <color name="ver3_dark_gray">#646464</color>
+
+    <!-- 直播页使用 -->
+
+
+    <color name="blue2">#41beff</color>
+
+    <!-- 游戏中心 -->
+
+
+    <color name="game_nav_color">#747474</color>
+
+    <color name="game_list_color">#717171</color>
+
+    <color name="game_text_gray">#666666</color>
+
+    <color name="game_text_gray2">#999999</color>
+
+    <color name="detail_nav_text">#282828</color>
+
+    <!-- 首页推荐 -->
+
+
+    <color name="recommend_recent_subtitle">#676767</color>
+
+    <color name="recommend_group_title">#646464</color>
+
+    <color name="item_pv">#606060</color>
+
+    <color name="item_subtitle">#969696</color>
+
+    <!-- 二维码 -->
+
+
+    <color name="transparent">#00000000</color>
+
+    <color name="possible_result_points">#c0ffbd21</color>
+
+    <!-- Android standard ICS color -->
+
+
+    <color name="result_view">#b0000000</color>
+
+    <color name="viewfinder_frame">#ff000000</color>
+
+    <color name="viewfinder_laser">#ffcc0000</color>
+
+    <!-- Android standard ICS color -->
+
+
+    <color name="viewfinder_mask">#a0000000</color>
+
+    <color name="live_alarm_gray">#737373</color>
+
+    <color name="add_follow_blue">#FF1C86EE</color>
+
+    <color name="cancel_follow_black">#FF4F4F4F</color>
+
+    <!-- 分割线颜色 -->
+
+
+    <color name="line_color">#FF434343</color>
+
+    <color name="transparent_gray">#40bbbbbb</color>
+
+    <color name="transparent_gray2">#A0000000</color>
+
+    <color name="color_name">#646464</color>
+
+    <color name="seen_name">#b4b4b4</color>
+
+    <color name="color_subtitle">#969696</color>
+
+    <color name="sky_blue">#b2d3e0</color>
+
+    <color name="share_name">#b4b4b4</color>
+
+    <!-- 部落 -->
+
+
+    <color name="tribe_common_text_color">#191919</color>
+
+    <color name="tribe_line_color">#d2d7dd</color>
+
+    <color name="tribe_posttime_color">#828282</color>
+
+    <color name="tribe_expand_more_color">#1887dc</color>
+
+    <!-- 4.0 -->
+
+
+    <color name="normal_background">#EEF0F3</color>
+
+    <color name="normal_text_title">#000000</color>
+
+    <color name="normal_text_content">#191919</color>
+
+    <color name="normal_text_value">#828282</color>
+
+    <color name="normal_list_item_background">#eef0f3</color>
+
+    <color name="normal_list_item_selected">#08eef0f3</color>
+
+    <color name="normal_list_item_divider">#d2d7dd</color>
+
+    <color name="favorite_text_highlight">#1887dc</color>
+
+    <color name="favorite_text_normal">#646464</color>
+
+    <color name="chang_comment_refresh_color">#9eacbd</color>
+
+    <!-- 6.0直播 -->
+
+
+    <color name="live_bg">#fafafa</color>
+
+    <color name="live_title">#323232</color>
+
+    <color name="live_light_gray">#dcdcdc</color>
+
+    <color name="live_dgray">#969696</color>
+
+    <color name="live_red">#ff6565</color>
+
+    <color name="live_dred">#fd5151</color>
+
+    <color name="live_blue">#04adf6</color>
+
+    <color name="live_orange">#ff9313</color>
+
+    <color name="live_commentator">#04b0f8</color>
+
+    <color name="live_stastics">#f0f0f0</color>
+
+    <color name="live_yellow">#ffd500</color>
+
+    <color name="live_disable">#c8c8c8</color>
+
+    <color name="live_fav_blue">#00c3ed</color>
+
+    <color name="live_dblue">#195d9e</color>
+
+    <color name="live_mask_blue">#3d6291</color>
+
+    <color name="live_mask_score">#60799b</color>
+
+    <color name="live_msgpreviewer_bg">#f5fafafa</color>
+
+    <color name="live_memoir_bg">#f5f5f5</color>
+
+    <color name="live_statistic_blue">#e4eef3</color>
+
+    <color name="live_light_gray1">#ebedee</color>
+
+    <!-- 4.0直播 -->
+
+
+    <color name="live_helper_reserve">#b7bdc3</color>
+
+    <color name="live_replay">#191919</color>
+
+    <color name="live_rectangle_reserve">#b7bdc3</color>
+
+    <color name="live_rectangle_playing">#FFA200</color>
+
+    <color name="live_rectangle_replay">#7d8184</color>
+
+    <color name="live_rectangle_finish">#b7bdc3</color>
+
+    <!-- 3.0直播 -->
+
+
+    <color name="live_white">#FFFFFF</color>
+
+    <color name="live_gray">#969696</color>
+
+    <color name="live_playing">#FFA200</color>
+
+    <color name="live_end">#c8c8c8</color>
+
+    <!-- 最近观看 3.0 -->
+
+
+    <color name="recent_edit">#FFC8C8C8</color>
+
+    <color name="recent_bar">#FF969696</color>
+
+    <color name="recent_video_title">#FFC8C8C8</color>
+
+    <color name="recent_watch_time">#FFFFA200</color>
+
+    <color name="recent_platform">#FF646464</color>
+
+    <color name="recent_item_divide_line">#FF1E1E1E</color>
+
+    <!-- 3.0我的特权 -->
+
+
+    <color name="vip_fragment_bg_color">@color/ver_3_bg_color</color>
+
+    <!-- 直播提醒助手删除选中项字体灰色值 -->
+
+
+    <color name="delete_selected_gray_color">#969696</color>
+
+    <color name="delete_selected_red_color">#e24f4f</color>
+
+    <color name="delete_selected_blue">#36a0ec</color>
+
+    <!-- ====================Ver3.0 Common Color=================== -->
+
+
+    <!-- 灰色 -->
+
+
+    <color name="light_gray">#828282</color>
+
+    <color name="dark_gray">#202020</color>
+
+    <!-- 背景色 -->
+
+
+    <color name="ver_3_bg_color">@color/light_gray</color>
+
+    <color name="ver_3_dark_gray_bg_color">@color/dark_gray</color>
+
+    <!-- 着重显示的橘黄色 -->
+
+
+    <color name="ver_3_focus_txt_color">#fca000</color>
+
+    <color name="ver_3_light_white_color">#c8c8c8</color>
+
+    <!-- 蓝色按钮 -->
+
+
+    <color name="ver3_blue_bg_btn">#006BD9</color>
+
+    <color name="ver3_blue_text_color">#fefefe</color>
+
+    <!-- 加关注 -->
+
+
+    <color name="color_follow_add">#89ccff</color>
+
+    <color name="gray_bg">#232323</color>
+
+    <!-- Ver3.0游戏中心-专题活动 -->
+
+
+    <color name="activity_issue_bg_color">@color/gray_bg</color>
+
+    <color name="activity_issue_type_bg_color">#464646</color>
+
+    <color name="activity_issue_type_text_color">@color/time_type_text_color</color>
+
+    <color name="activity_issue_title_text_color">#d4d4d4</color>
+
+    <color name="activity_issue_time_text_color">@color/time_type_text_color</color>
+
+    <!-- 时间和类型同一种颜色 -->
+
+
+    <color name="time_type_text_color">#969696</color>
+
+    <!-- dmp -->
+
+
+    <color name="dmp_speed_color">#009bfe</color>
+
+    <color name="dmp_speed_title_color">#505050</color>
+
+    <!-- 文件传输 -->
+
+
+    <color name="transfer_mydevice_bg">#323232</color>
+
+    <color name="player_seek_normal">#868686</color>
+
+    <color name="share_related_text_color">#faeaea</color>
+
+    <color name="player_btn_trangary">#60000000</color>
+
+    <color name="wcp_rank_listitem">#C1000000</color>
+
+    <color name="wcp_news_listitempress">#D1000000</color>
+
+    <color name="wcp_new_time_bg">#E1000000</color>
+
+    <color name="wcp_fplive_text_bg">#A1000000</color>
+
+    <color name="text_gray">#ff969696</color>
+
+    <color name="sports_mainbg_color">#ff2a2a2a</color>
+
+    <!-- 世界杯 积分榜Body字体颜色 -->
+
+
+    <color name="world_cup_score_list_body_txt_color_1">#ffffffff</color>
+
+    <color name="world_cup_score_list_body_txt_color_2">#ffec6a1e</color>
+
+    <color name="world_cup_score_list_body_txt_color_3">#ffffffff</color>
+
+    <!-- 世界杯 详情简介 字体颜色 -->
+
+
+    <color name="world_cup_detail_introduction_title">#ffffff</color>
+
+    <color name="world_cup_detail_introduction_text">#c8c8c8</color>
+
+    <color name="world_cup_detail_introduction_item2_list_title">#c8c8c8</color>
+
+    <color name="world_cup_detail_introduction_item2_list_time">#646464</color>
+
+    <!-- 赛程 -->
+
+
+    <color name="world_cup_competition_match_cata_color">#ff9cd0</color>
+
+    <color name="world_cup_competition_match_cata_content_color">#646464</color>
+
+    <!-- 积分 -->
+
+
+    <color name="rank_item_bg_1">#e6000000</color>
+
+    <color name="rank_item_bg_2">#80000000</color>
+
+    <color name="fixture_list_item_normal">#C1000000</color>
+
+    <color name="fixture_list_item_press">#D1000000</color>
+
+    <color name="profile_form_bg">#cc000000</color>
+
+    <color name="page_botton_bg">#80000000</color>
+
+    <color name="app_dark_gray">#202020</color>
+
+    <!-- 4.0个人中心 -->
+
+
+    <color name="usercenter_home_bg">#eef0f3</color>
+
+    <color name="usercenter_text_color">#252525</color>
+
+    <color name="orange_sign">#F58900</color>
+
+    <color name="usercenter_vip_red">#ff4949</color>
+
+    <!-- 详情页 -->
+
+
+    <color name="detail_background">#eef0f3</color>
+
+    <color name="detail_item_background_hover">#e0e2e5</color>
+
+    <color name="detail_tab_background">#e8ebee</color>
+
+    <color name="detail_black">#191919</color>
+
+    <color name="detail_light_black">#646464</color>
+
+    <color name="detail_middle_gray">#5a5a5a</color>
+
+    <color name="detail_light_gray">#828282</color>
+
+    <color name="detail_blue">#1887dc</color>
+
+    <color name="detail_blue_transparent">#ee1887dc</color>
+
+    <color name="detail_blue_deep">#136cb0</color>
+
+    <color name="detail_yellow">#ff8a00</color>
+
+    <color name="detail_yellow_deep">#cc6e00</color>
+
+    <color name="detail_red">#e24f4f</color>
+
+    <color name="detail_white">#ffffff</color>
+
+    <color name="detail_gray_white">#979797</color>
+
+    <color name="detail_devider">#d2d7dd</color>
+
+    <color name="detail_devider2">#464646</color>
+
+    <color name="detail_transparent">#55000000</color>
+
+    <color name="detail_dark_transparent">#99000000</color>
+
+    <color name="detail_dark_transparent2">#cc000000</color>
+
+    <color name="detail_white_foreground">#ccffffff</color>
+
+    <color name="detail_unclickable_button">#ccb3cfe4</color>
+
+    <color name="detail_unclickable_blue">#b7e0ff</color>
+
+    <color name="detail_gray_normal">#b7bdc3</color>
+
+    <color name="detail_gray_hover">#75818b</color>
+
+    <color name="detail_gray_deep">#92979c</color>
+
+    <color name="detail_green">#0ab812</color>
+
+    <!-- 打赏 -->
+
+
+    <color name="reward_green">#45bb35</color>
+
+    <!-- **************云点播2.0************** -->
+
+
+    <color name="menu_text_color">#0089D0</color>
+
+    <color name="item_normal_color">#2A2A2A</color>
+
+    <color name="cloud_bottom_menu_bg_color">#FBFBFB</color>
+
+    <color name="cloud_landing_bg_color">#F6F6F6</color>
+
+    <!-- 4.0个人中心 -->
+
+
+    <color name="enter_pptv_btn_color">#FFE24F4F</color>
+
+    <color name="enter_pptv_btn_pressed_color">#80E24F4F</color>
+
+    <color name="usercenter_red_btn_color">#FFE24F4F</color>
+
+    <color name="usercenter_red_btn_pressed_color">#80E24F4F</color>
+
+    <color name="usercenter_gray_btn_color">#FF878E95</color>
+
+    <color name="usercenter_gray_btn_pressed_color">#80878E95</color>
+
+    <color name="usercenter_blue_btn_color">#FF00A3FF</color>
+
+    <color name="usercenter_blue_btn_pressed_color">#8000A3FF</color>
+
+    <color name="usercenter_orange_btn_color">#FFFF6725</color>
+
+    <color name="usercenter_orange_btn_pressed_color">#80FF6725</color>
+
+    <color name="usercenter_btn_disabled_color">#FFC3C7CC</color>
+
+    <color name="usercenter_menu_item_color">#FFFFFFFF</color>
+
+    <color name="usercenter_menu_item_pressed_color">#80FFFFFF</color>
+
+    <color name="usercenter_menu_item_pressed">#f4f4f4</color>
+
+    <!-- template -->
+
+
+    <color name="template_title">#191919</color>
+
+    <color name="template_cover_bg">#2a2f33</color>
+
+    <color name="template_sub_title">#828282</color>
+
+    <color name="whole_bg">#eef0f3</color>
+
+    <color name="banner_text1">#646464</color>
+
+    <color name="banner_text2">#191919</color>
+
+    <color name="banner_bt_light">#969696</color>
+
+    <color name="banner_line">#d2d7dd</color>
+
+    <color name="live_reserve">#1887dc</color>
+
+    <color name="live_unreserve">#ffffff</color>
+
+    <color name="live_play">#FF8a00</color>
+
+    <!-- 频道列表页 -->
+
+
+    <color name="category_title_line">#a7a9ac</color>
+
+    <color name="category_line">#ff1887dc</color>
+
+    <color name="default_photo_color">#EBEDEE</color>
+
+    <color name="category_title">#191919</color>
+
+    <color name="category_subtitle">#ff5a5a5a</color>
+
+    <color name="category_up_color">#ffe8ebee</color>
+
+    <color name="category_updatetime_color">#ff8a00</color>
+
+    <color name="category_recommend_color">#828282</color>
+
+    <color name="category_corner_color">#e97428</color>
+
+    <!-- 6.0动漫频道页 -->
+
+
+    <color name="cartoon_schedule_week_bg">#FFEBEDEE</color>
+
+    <color name="cartoon_schedule_date_week">#FF00C3ED</color>
+
+    <color name="cartoon_schedule_date_week_bg">#FFF0F0F0</color>
+
+    <color name="cartoon_schedule_content_title">#FF333333</color>
+
+    <color name="cartoon_schedule_content_overlap">#FFFF9313</color>
+
+    <color name="cartoon_rank_category">#FF969696 </color>
+
+    <color name="cartoon_rank_line">#FFDCDCDC</color>
+
+    <color name="cartoon_rank_first">#FFFD5151</color>
+
+    <color name="cartoon_rank_second">#FFFF8B40</color>
+
+    <color name="cartoon_rank_third">#FFFECF24</color>
+
+    <color name="cartoon_rank_text">#FFA0A0A0</color>
+
+    <!-- 6.0 频道管理 -->
+
+
+    <color name="channel_category_bg">#FFEBEDEE</color>
+
+    <color name="channel_category_tip_title">#FF969696</color>
+
+    <color name="channel_category_drag_color">#FF00A3FF</color>
+
+    <!-- 6.0频道列表页 -->
+
+
+    <color name="v6_whole_bg">#FFEBEDEE</color>
+
+    <color name="category_whole_bg">#FFFAFAFA</color>
+
+    <color name="category_whole_fg">#22000000</color>
+
+    <color name="category_line_color">#FFDCDCDC</color>
+
+    <color name="category_cover_score">#FFFF9313</color>
+
+    <color name="category_cover_text">#FFFFFFFF</color>
+
+    <color name="category_title_text">#FF323232</color>
+
+    <color name="category_title_text_all">#FF00ADEF</color>
+
+    <color name="category_subtitle_text">#FF969696</color>
+
+    <color name="category_pv_text">#FFC8C8C8</color>
+
+    <color name="category_order_filter_bg">#FFF0F0F0</color>
+
+    <color name="category_order_filter_line">#FFDDDDDD </color>
+
+    <color name="category_order_filter_text_selected">#FFFF9313</color>
+
+    <color name="category_order_filter_text_normal">#FF323232 </color>
+
+    <color name="category_filter_text_selected">#FFFFFFFF</color>
+
+    <color name="category_filter_text_normal">#FF333333</color>
+
+    <color name="category_filter_bg">#FFF8F8F8</color>
+
+    <color name="category_filter_text_selected_bg">#FF04ADF6</color>
+
+    <color name="category_filter_overlap_text_bg">#E6FAFAFA</color>
+
+    <!-- 6.0角标 -->
+
+
+    <color name="mark_red">#FFFD5151</color>
+
+    <color name="mark_green">#FF33D6C4</color>
+
+    <color name="mark_blue">#FF04ADF6</color>
+
+    <color name="mark_orange">#FFFF9313</color>
+
+    <!-- 电视台列表页 -->
+
+
+    <color name="category_tv_now_play_label">#FF646464</color>
+
+    <color name="category_tv_will_play_label">#FF969696</color>
+
+    <color name="category_tv_name">#FF323232</color>
+
+    <color name="category_tv_item_bg">#FFDCDCDC</color>
+
+    <color name="category_tv_reserve_text">#FF333333</color>
+
+    <color name="category_tv_reserve_text_bg">#FFF0F0F0</color>
+
+    <color name="category_tv_reserved_text">#FFFFFFFF</color>
+
+    <color name="category_tv_reserved_text_bg">#FF04ADF6</color>
+
+    <color name="category_tv_live_text">#FFFFFFFF</color>
+
+    <color name="category_tv_live_text_bg">#FFFF9313</color>
+
+    <!-- 列表页页签滑动 -->
+
+
+    <color name="category_pager_tab_indicator_color">#FF04ADF6</color>
+
+    <color name="recommand_pager_tab_indicator_color">#26000000</color>
+
+    <color name="category_pager_tab_background">#FFF8F8F8</color>
+
+    <!-- 6.0模板 -->
+
+
+    <color name="template_title_color">#FF323232</color>
+
+    <color name="template_title_more_title_color">#FF969696</color>
+
+    <color name="template_title_line_color">#FFDCDCDC</color>
+
+    <!-- 首页体育直播推荐 -->
+
+
+    <color name="template_sport_recommend_live_bg">#FFFD5151</color>
+
+    <color name="template_sport_recommend_finish_bg">#FFC8C8C8</color>
+
+    <color name="template_sport_recommend_status_finish">#FF969696</color>
+
+    <color name="template_sport_recommend_status_live">#FFFF9313</color>
+
+    <color name="template_sport_recommend_live_title">#FF969696</color>
+
+    <color name="template_sport_recommend_live_time">#FF323232</color>
+
+    <!-- 频道主页 -->
+
+
+    <color name="category_main_item_up">#ffeef0f3</color>
+
+    <color name="category_main_item_press">#ffebedee</color>
+
+    <!-- *************4.0公共颜色************* -->
+
+
+    <!-- <color name="v4_activity_bg_color">#E8EEEE</color> -->
+
+
+    <color name="v4_activity_bg_color">@color/whole_bg</color>
+
+    <color name="v4_light_blue">#419ADE</color>
+
+    <color name="v4_light_gray">#828282</color>
+
+    <color name="v4_progress_text_color">@color/black</color>
+
+    <color name="v4_title_text_color">#191919</color>
+
+    <color name="v4_sub_title_text_color">#5a5a5a</color>
+
+    <color name="v4_adapter_bg_color">@color/white</color>
+
+    <!-- ***********遥控器*************** -->
+
+
+    <color name="v4_discover_bg_color">@color/v4_activity_bg_color</color>
+
+    <color name="v4_app_market_bg_color">@color/v4_activity_bg_color</color>
+
+    <color name="v4_app_market_line_color">#DCDCDC</color>
+
+    <color name="v4_app_market_text_color">#686868</color>
+
+    <color name="v4_app_detail_title_text_color">#191919</color>
+
+    <color name="v4_app_detail_descriptor_text_color">@color/v4_light_gray</color>
+
+    <color name="v4_vip_list_bg">#EEF0F3</color>
+
+    <color name="new_blue">#1887dc</color>
+
+    <color name="player_panel_color">#f22e3134</color>
+
+    <color name="player_panel_selected">#f2323232</color>
+
+    <color name="colors_white">#FFFFFFFF</color>
+
+    <color name="color_translucent">#B2000000</color>
+
+    <color name="color_transparent">#00FFFFFF</color>
+
+    <color name="background_title">#1887DC</color>
+
+    <color name="background_top_click">#1473BB</color>
+
+    <color name="background_panel">#E8EBEE</color>
+
+    <color name="background_drop_list_normal">#E8EBEE</color>
+
+    <color name="background_drop_list_connected">#FFFFFFFF</color>
+
+    <color name="text_drop_list_normal">#CC000000</color>
+
+    <color name="text_drop_list_connected">#CC1887DC</color>
+
+    <color name="text_gallery_normal">#4F5155</color>
+
+    <color name="text_gallery_selected">#1887DC</color>
+
+    <color name="text_speech_btn">#1989dc</color>
+
+    <!-- 鍗囩骇鐗堟墍鐢ㄩ鑹诧紝涓昏鏄叧浜庣瓑鐣岄潰 -->
+
+
+    <color name="txt_item_about">#353535</color>
+
+    <color name="txt_version">#aaa</color>
+
+    <color name="txt_505155">#505155</color>
+
+    <!-- 遥控器结束 -->
+
+
+    <!-- ***********涂鸦*************** -->
+
+
+    <color name="graffiti_bg">#ff383d4c</color>
+
+    <color name="graffiti_face_selector">#881f232e</color>
+
+    <color name="graffiti_txt_bg">#ff009bfe</color>
+
+    <color name="graffiti_text">#ffffcc00</color>
+
+    <!-- 部落 -->
+
+
+    <color name="tribe_item_state_bg">#aa000000</color>
+
+    <color name="tribe_item_info">#aaffffff</color>
+
+    <color name="tribe_medal_get_bg">#ccffffff</color>
+
+    <color name="tribe_report">#191919</color>
+
+    <color name="tribe_help">#575757</color>
+
+    <color name="tribe_notify_selector">#e0e2e5</color>
+
+    <color name="black_3">#828282</color>
+
+    <color name="black_1">#191919</color>
+
+    <color name="gray_1">#b7bdc3</color>
+
+    <!-- 搜索vas游戏资源 -->
+
+
+    <color name="pptvvas_text1">#191919</color>
+
+    <color name="pptvvas_text2">#646464</color>
+
+    <color name="pptvvas_text3">#828282</color>
+
+    <color name="vas_search_bg_press">#e6e6e6</color>
+
+    <color name="login_color">#1887dc</color>
+
+    <color name="search_nav_bg">#f8f8f8</color>
+
+    <color name="search_nav_orange">#FF9313</color>
+
+    <color name="search_nav_divider">#d2d7dd</color>
+
+    <!-- 一唱成名聊天窗 -->
+
+
+    <color name="little_grey">#FFF0F0F0</color>
+
+    <color name="grey">#FFE8E8E8</color>
+
+    <color name="chat_red">#FFEF2E2E</color>
+
+    <color name="split">#FFD2E1DD</color>
+
+    <color name="bubble_font">#FF646464</color>
+
+    <color name="input_hint_font">#FF969696</color>
+
+    <color name="tag_red">#EF3136</color>
+
+    <color name="background_tab_pressed">#6633B5E5</color>
+
+    <color name="white_0">#FFFFFFFF</color>
+
+    <color name="single_block">#ff9bcc54</color>
+
+    <color name="gun_300">#ffe59d61</color>
+
+    <color name="gun_120">#ffdc88b0</color>
+
+    <color name="ARC_ROTATE_0">#ffd3b37d</color>
+
+    <color name="HORIZONTAL_4_BLOCK">#ff56bc78</color>
+
+    <color name="RHOMBUS_BLOCK">#ff7085e0</color>
+
+    <color name="Golden">#FFFFD700</color>
+
+
+</resources>

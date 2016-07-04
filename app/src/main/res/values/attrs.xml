@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="BlockGroup">
+        <attr name="shape_type"    />
+        <attr name="hexagon_color" format="reference"/>
+    </declare-styleable>
+    
+    <attr name="shape_type">
+        <enum name="SINGLE_BLOCK"            value="0"/>
+        <enum name="HORIZONTAL_4_BLOCK"      value="1"/>
+        <enum name="LEFT_TOP_4_BLOCK"        value="2"/>
+        <enum name="LEFT_BOTTOM_4_BLOCK"     value="3"/>
+        <enum name="LEFT_RHOMBUS_BLOCK"      value="4"/>
+        <enum name="CENTER_RHOMBUS_BLOCK"    value="5"/>
+        <enum name="RIGHT_RHOMBUS_BLOCK"     value="6"/>
+        <enum name="ARC_ROTATE_0"            value="7"/>
+        <enum name="ARC_ROTATE_60"           value="8"/>
+        <enum name="ARC_ROTATE_120"          value="9"/>
+        <enum name="ARC_ROTATE_180"          value="10"/>
+        <enum name="ARC_ROTATE_240"          value="11"/>
+        <enum name="ARC_ROTATE_300"          value="12"/>
+        <enum name="GUN_0_LEFT"              value="13"/>
+        <enum name="GUN_0_RIGHT"             value="14"/>
+        <enum name="GUN_60_LEFT"             value="15"/>
+        <enum name="GUN_60_RIGHT"            value="16"/>
+        <enum name="GUN_120_LEFT"            value="17"/>
+        <enum name="GUN_120_RIGHT"           value="18"/>
+        <enum name="GUN_180_LEFT"            value="19"/>
+        <enum name="GUN_180_RIGHT"           value="20"/>
+        <enum name="GUN_240_LEFT"            value="21"/>
+        <enum name="GUN_240_RIGHT"           value="22"/>
+        <enum name="GUN_300_LEFT"            value="23"/>
+        <enum name="GUN_300_RIGHT"           value="24"/>
+    </attr>
+
+    <declare-styleable name="HexagonHeap">
+        <attr name="HexagonHeap_bg" format="reference"/>
+    </declare-styleable>
+</resources>
